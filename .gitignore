@@ -1,0 +1,10 @@
+.gitignore
+.vs
+geckodriver.exe
+geckodriver.log
+2023-03-07_22-22-22.png
+2023-03-07_22-21-38.png
+.idea/
+*.iml
+out
+gen
